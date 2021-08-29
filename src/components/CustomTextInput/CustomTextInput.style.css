@@ -1,0 +1,15 @@
+.inputField {
+    padding: 0.5rem 0.3rem;
+    border: none;
+    border-bottom: 2px solid rgba(202, 199, 199, 0.8);
+    width: 100%;
+    color: rgb(161, 161, 161);
+}
+.inputField::placeholder {
+    font-size: 1rem;
+    color: rgba(128, 128, 128, 0.5);
+}
+.inputField:focus {
+    outline: none;
+    border-bottom: 2px solid black;
+}

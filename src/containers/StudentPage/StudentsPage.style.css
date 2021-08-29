@@ -1,0 +1,11 @@
+.searchBoxContainer {
+    width: 98%;
+    margin: 0.5rem auto;
+}
+.tagInputDisplayContainer {
+    margin-left: 8%; 
+}
+.studentContainer {
+    border-bottom: 1px solid rgba(202, 199, 199, 0.5);
+    padding-bottom: 1rem;
+}

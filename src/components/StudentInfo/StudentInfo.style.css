@@ -1,0 +1,30 @@
+.mainContainer {
+    padding-top: 1rem;
+}
+.basicStudentInfoContainer {
+    display: flex;
+}
+.studentInfoContainer {
+    flex: 4;
+}
+.studentInfoContainer h3 {
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8rem;
+}
+.studentInfoContainer h4 {
+    margin: 0;
+    font-weight: 500;
+    font-size: 0.8rem;
+}
+.studentInfo {
+    padding: 0.5rem 1rem;
+    line-height: 1.2rem;
+}
+.testGradesTogglerContainer {
+    padding: 0 1rem;
+}
+.testGradesTogglerButton:hover {
+    cursor: pointer;
+}

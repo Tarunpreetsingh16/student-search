@@ -1,0 +1,12 @@
+.testGradesTogglerButton {
+    height: 2rem;
+    width: 2rem;
+    border: none;
+    margin: 0 1rem;
+}
+.plusBackground {
+    background: url(./../../assets/imgs/plus.png) no-repeat center;
+}
+.minusBackground {
+    background: url(./../../assets/imgs/minus.png) no-repeat center;
+}
